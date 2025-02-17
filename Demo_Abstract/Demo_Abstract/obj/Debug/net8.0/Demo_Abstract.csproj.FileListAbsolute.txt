@@ -1,0 +1,14 @@
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\bin\Debug\net8.0\Demo_Abstract.exe
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\bin\Debug\net8.0\Demo_Abstract.deps.json
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\bin\Debug\net8.0\Demo_Abstract.runtimeconfig.json
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\bin\Debug\net8.0\Demo_Abstract.dll
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\bin\Debug\net8.0\Demo_Abstract.pdb
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\Demo_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\Demo_Abstract.AssemblyInfoInputs.cache
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\Demo_Abstract.AssemblyInfo.cs
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\Demo_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\Demo_Abstract.dll
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\refint\Demo_Abstract.dll
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\Demo_Abstract.pdb
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\Demo_Abstract.genruntimeconfig.cache
+C:\Users\NO NAME\source\repos\Demo_Abstract\Demo_Abstract\obj\Debug\net8.0\ref\Demo_Abstract.dll

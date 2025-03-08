@@ -1,0 +1,14 @@
+D:\Lập trình web nâng cao\CS_Event\CS_Event\bin\Debug\net8.0\CS_Event.exe
+D:\Lập trình web nâng cao\CS_Event\CS_Event\bin\Debug\net8.0\CS_Event.deps.json
+D:\Lập trình web nâng cao\CS_Event\CS_Event\bin\Debug\net8.0\CS_Event.runtimeconfig.json
+D:\Lập trình web nâng cao\CS_Event\CS_Event\bin\Debug\net8.0\CS_Event.dll
+D:\Lập trình web nâng cao\CS_Event\CS_Event\bin\Debug\net8.0\CS_Event.pdb
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\CS_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\CS_Event.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\CS_Event.AssemblyInfo.cs
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\CS_Event.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\CS_Event.dll
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\refint\CS_Event.dll
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\CS_Event.pdb
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\CS_Event.genruntimeconfig.cache
+D:\Lập trình web nâng cao\CS_Event\CS_Event\obj\Debug\net8.0\ref\CS_Event.dll

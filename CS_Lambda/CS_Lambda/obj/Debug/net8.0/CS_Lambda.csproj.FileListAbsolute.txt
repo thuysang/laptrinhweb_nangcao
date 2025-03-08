@@ -1,0 +1,14 @@
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\CS_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\CS_Lambda.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\CS_Lambda.AssemblyInfo.cs
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\CS_Lambda.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\bin\Debug\net8.0\CS_Lambda.exe
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\bin\Debug\net8.0\CS_Lambda.deps.json
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\bin\Debug\net8.0\CS_Lambda.runtimeconfig.json
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\bin\Debug\net8.0\CS_Lambda.dll
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\bin\Debug\net8.0\CS_Lambda.pdb
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\CS_Lambda.dll
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\refint\CS_Lambda.dll
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\CS_Lambda.pdb
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\CS_Lambda.genruntimeconfig.cache
+D:\Lập trình web nâng cao\CS_Lambda\CS_Lambda\obj\Debug\net8.0\ref\CS_Lambda.dll

@@ -1,0 +1,14 @@
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\bin\Debug\net8.0\CS_DELEGATE.exe
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\bin\Debug\net8.0\CS_DELEGATE.deps.json
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\bin\Debug\net8.0\CS_DELEGATE.runtimeconfig.json
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\bin\Debug\net8.0\CS_DELEGATE.dll
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\bin\Debug\net8.0\CS_DELEGATE.pdb
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\CS_DELEGATE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\CS_DELEGATE.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\CS_DELEGATE.AssemblyInfo.cs
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\CS_DELEGATE.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\CS_DELEGATE.dll
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\refint\CS_DELEGATE.dll
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\CS_DELEGATE.pdb
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\CS_DELEGATE.genruntimeconfig.cache
+D:\Lập trình web nâng cao\CS_DELEGATE\CS_DELEGATE\obj\Debug\net8.0\ref\CS_DELEGATE.dll

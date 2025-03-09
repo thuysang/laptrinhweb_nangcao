@@ -1,0 +1,14 @@
+D:\Lập trình web nâng cao\linqexample\linqexample\bin\Debug\net8.0\linqexample.exe
+D:\Lập trình web nâng cao\linqexample\linqexample\bin\Debug\net8.0\linqexample.deps.json
+D:\Lập trình web nâng cao\linqexample\linqexample\bin\Debug\net8.0\linqexample.runtimeconfig.json
+D:\Lập trình web nâng cao\linqexample\linqexample\bin\Debug\net8.0\linqexample.dll
+D:\Lập trình web nâng cao\linqexample\linqexample\bin\Debug\net8.0\linqexample.pdb
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\linqexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\linqexample.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\linqexample.AssemblyInfo.cs
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\linqexample.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\linqexample.dll
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\refint\linqexample.dll
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\linqexample.pdb
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\linqexample.genruntimeconfig.cache
+D:\Lập trình web nâng cao\linqexample\linqexample\obj\Debug\net8.0\ref\linqexample.dll

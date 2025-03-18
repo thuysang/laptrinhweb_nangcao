@@ -1,0 +1,16 @@
+D:\Lập trình web nâng cao\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.exe
+D:\Lập trình web nâng cao\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.deps.json
+D:\Lập trình web nâng cao\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.runtimeconfig.json
+D:\Lập trình web nâng cao\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.dll
+D:\Lập trình web nâng cao\ComboBox\ComboBox\bin\Debug\net8.0-windows\ComboBox.pdb
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.Form1.resources
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.csproj.GenerateResource.cache
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.AssemblyInfo.cs
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.dll
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\refint\ComboBox.dll
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.pdb
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ComboBox.genruntimeconfig.cache
+D:\Lập trình web nâng cao\ComboBox\ComboBox\obj\Debug\net8.0-windows\ref\ComboBox.dll

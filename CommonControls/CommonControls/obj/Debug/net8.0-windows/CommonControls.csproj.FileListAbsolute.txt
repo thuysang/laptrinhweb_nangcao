@@ -1,0 +1,16 @@
+D:\Lập trình web nâng cao\CommonControls\CommonControls\bin\Debug\net8.0-windows\CommonControls.exe
+D:\Lập trình web nâng cao\CommonControls\CommonControls\bin\Debug\net8.0-windows\CommonControls.deps.json
+D:\Lập trình web nâng cao\CommonControls\CommonControls\bin\Debug\net8.0-windows\CommonControls.runtimeconfig.json
+D:\Lập trình web nâng cao\CommonControls\CommonControls\bin\Debug\net8.0-windows\CommonControls.dll
+D:\Lập trình web nâng cao\CommonControls\CommonControls\bin\Debug\net8.0-windows\CommonControls.pdb
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.Ibtitle.resources
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.csproj.GenerateResource.cache
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.AssemblyInfo.cs
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.dll
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\refint\CommonControls.dll
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.pdb
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\CommonControls.genruntimeconfig.cache
+D:\Lập trình web nâng cao\CommonControls\CommonControls\obj\Debug\net8.0-windows\ref\CommonControls.dll

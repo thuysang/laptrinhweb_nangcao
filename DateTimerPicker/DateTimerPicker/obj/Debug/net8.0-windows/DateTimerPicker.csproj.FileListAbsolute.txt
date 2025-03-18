@@ -1,0 +1,16 @@
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\bin\Debug\net8.0-windows\DateTimerPicker.exe
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\bin\Debug\net8.0-windows\DateTimerPicker.deps.json
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\bin\Debug\net8.0-windows\DateTimerPicker.runtimeconfig.json
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\bin\Debug\net8.0-windows\DateTimerPicker.dll
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\bin\Debug\net8.0-windows\DateTimerPicker.pdb
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.Form1.resources
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.csproj.GenerateResource.cache
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.AssemblyInfo.cs
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.dll
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\refint\DateTimerPicker.dll
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.pdb
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\DateTimerPicker.genruntimeconfig.cache
+D:\Lập trình web nâng cao\DateTimerPicker\DateTimerPicker\obj\Debug\net8.0-windows\ref\DateTimerPicker.dll

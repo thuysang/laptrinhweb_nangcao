@@ -1,0 +1,16 @@
+D:\Lập trình web nâng cao\ListView\ListView\bin\Debug\net8.0-windows\ListView.exe
+D:\Lập trình web nâng cao\ListView\ListView\bin\Debug\net8.0-windows\ListView.deps.json
+D:\Lập trình web nâng cao\ListView\ListView\bin\Debug\net8.0-windows\ListView.runtimeconfig.json
+D:\Lập trình web nâng cao\ListView\ListView\bin\Debug\net8.0-windows\ListView.dll
+D:\Lập trình web nâng cao\ListView\ListView\bin\Debug\net8.0-windows\ListView.pdb
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.Form1.resources
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.csproj.GenerateResource.cache
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.AssemblyInfo.cs
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.dll
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\refint\ListView.dll
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.pdb
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ListView.genruntimeconfig.cache
+D:\Lập trình web nâng cao\ListView\ListView\obj\Debug\net8.0-windows\ref\ListView.dll

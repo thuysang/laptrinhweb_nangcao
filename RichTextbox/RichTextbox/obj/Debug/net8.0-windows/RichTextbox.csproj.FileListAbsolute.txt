@@ -1,0 +1,16 @@
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\bin\Debug\net8.0-windows\RichTextbox.exe
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\bin\Debug\net8.0-windows\RichTextbox.deps.json
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\bin\Debug\net8.0-windows\RichTextbox.runtimeconfig.json
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\bin\Debug\net8.0-windows\RichTextbox.dll
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\bin\Debug\net8.0-windows\RichTextbox.pdb
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.Form1.resources
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.csproj.GenerateResource.cache
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.AssemblyInfo.cs
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.dll
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\refint\RichTextbox.dll
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.pdb
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\RichTextbox.genruntimeconfig.cache
+D:\Lập trình web nâng cao\RichTextbox\RichTextbox\obj\Debug\net8.0-windows\ref\RichTextbox.dll

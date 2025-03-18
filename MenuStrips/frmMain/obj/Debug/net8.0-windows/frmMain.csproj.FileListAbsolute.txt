@@ -1,0 +1,16 @@
+D:\Lập trình web nâng cao\MenuStrips\frmMain\bin\Debug\net8.0-windows\frmMain.exe
+D:\Lập trình web nâng cao\MenuStrips\frmMain\bin\Debug\net8.0-windows\frmMain.deps.json
+D:\Lập trình web nâng cao\MenuStrips\frmMain\bin\Debug\net8.0-windows\frmMain.runtimeconfig.json
+D:\Lập trình web nâng cao\MenuStrips\frmMain\bin\Debug\net8.0-windows\frmMain.dll
+D:\Lập trình web nâng cao\MenuStrips\frmMain\bin\Debug\net8.0-windows\frmMain.pdb
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.frmMain.resources
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.csproj.GenerateResource.cache
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.AssemblyInfoInputs.cache
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.AssemblyInfo.cs
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.csproj.CoreCompileInputs.cache
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.dll
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\refint\frmMain.dll
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.pdb
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\frmMain.genruntimeconfig.cache
+D:\Lập trình web nâng cao\MenuStrips\frmMain\obj\Debug\net8.0-windows\ref\frmMain.dll
